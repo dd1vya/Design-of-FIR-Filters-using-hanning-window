@@ -1,6 +1,6 @@
 # Design-of-FIR-Filters-using-hanning-window
 
-#DESIGN OF FIR DIGITAL FILTER 
+# DESIGN OF FIR DIGITAL FILTER 
 
 # AIM: 
           
